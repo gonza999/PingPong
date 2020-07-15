@@ -1,0 +1,10 @@
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\bin\Debug\PingPong.Windows.exe.config
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\bin\Debug\PingPong.Windows.exe
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\bin\Debug\PingPong.Windows.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.csprojAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.exe
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.pdb
+C:\Users\Gonzalo\Desktop\Ejercicios C#\PingPong\PingPong.Windows\obj\Debug\PingPong.Windows.Game.resources
